@@ -1,5 +1,5 @@
 # bookapp
-book review application I made following a codeschool tutorial
+book review application I made following a codeschool tutorial, I did not design it myself
 
 view app below:
 http://titan.csit.rmit.edu.au/~s3272974/wp/bookapp/
